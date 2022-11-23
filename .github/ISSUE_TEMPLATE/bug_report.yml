@@ -1,4 +1,4 @@
-name: "\U+1F479 Bug Report"
+name: "\U0001F479 Bug Report"
 description: Submit a bug report to help us improve transformers
 body:
   - type: textarea
