@@ -5,7 +5,7 @@ body:
     id: system-info
     attributes:
       label: System Info
-      description: Please share your system info with us. You can run the command `lsb_release -a` on ubuntu & 'sw_vers' on mac-os. Copy-paste its output below.
+      description: Please share your system info with us. You can run the command `lsb_release -a` on ubuntu & `sw_vers` on mac-os. Copy-paste its output below.
       placeholder: os version, torch version, python version, ...
     validations:
       required: true
