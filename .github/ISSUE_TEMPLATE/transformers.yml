@@ -22,9 +22,9 @@ body:
         Models:
 
           - YubiBert: `@swapaj`
-          - YubiGPT: '@sanprit'
-          - Speech-to-text: '@swapaj'
-          - Language Detection: '@ram'
+          - YubiGPT: `@sanprit`
+          - Speech-to-text: `@swapaj`
+          - Language Detection: `@ram`
           
           If the model isn't in the list, ping `@sanprit` who will redirect you to the correct contributor.
 
