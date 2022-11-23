@@ -1,5 +1,5 @@
 name: "\U0001FAB2 Bug Report"
-description: Submit a bug report to help us improve transformers
+description: Submit a bug report to help us improve our libraries
 body:
   - type: textarea
     id: system-info
